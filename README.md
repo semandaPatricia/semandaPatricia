@@ -16,8 +16,7 @@ reactjs      3 hrs 10 mins   █████████▒░░░░░░░
 JavaScript      1 hr 6 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   12.96 %
 python           15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
 nextjs             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %}
-[
-](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTAxbTJnM2hqc2QwNWd3MWhnNDJ4MmlqMXhydzBrYzB3eXNjMGUycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jIgXf4hgbHCeKiXpvt/giphy.gif)]
+
 semandaPatricia/semandaPatricia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
