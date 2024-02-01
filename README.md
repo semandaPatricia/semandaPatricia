@@ -17,6 +17,4 @@ JavaScript      1 hr 6 mins     ███▒░░░░░░░░░░░░
 python           15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
 nextjs             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %}
 
-semandaPatricia/semandaPatricia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
