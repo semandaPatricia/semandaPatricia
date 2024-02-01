@@ -11,10 +11,5 @@
                                      dev.listenToSlowJams()
                                      dev.openChatGpt()
                                      dev.relax()
-JSON            3 hrs 58 mins   ███████████▓░░░░░░░░░░░░░   46.64 %
-reactjs      3 hrs 10 mins   █████████▒░░░░░░░░░░░░░░░   37.22 %
-JavaScript      1 hr 6 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   12.96 %
-python           15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
-nextjs             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %}
 
 
